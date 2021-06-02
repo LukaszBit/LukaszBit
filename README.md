@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Łukasz, I am a student of Lublin University of Technology, Faculty of Computer Science.
 - 👀 I’m interested in new technologies and programming, but also I like motorbikes.
 - 🌱 I’m currently learning JS.
-- I’m looking for a job as a front-end :)
